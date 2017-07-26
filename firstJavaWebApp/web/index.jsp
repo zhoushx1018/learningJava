@@ -11,8 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
-  hello intellij idea, java web app
+  <t1>hello java web app   </t1>
+  <br>
 
-  $END$
+  <t1>powered by intellij idea</t1>
   </body>
 </html>
