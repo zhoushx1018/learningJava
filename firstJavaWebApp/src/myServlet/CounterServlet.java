@@ -39,5 +39,7 @@ public class CounterServlet extends HttpServlet
 		out.println("该页面已被访问了" + "<b>" + count + "</b>" + "次");
 		out.println("</body></html>");
 		out.close();
+
+		System.out.printf("aaaaaaaaaaaaaaaaa\n");
 	}
 }
